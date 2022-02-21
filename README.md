@@ -1,6 +1,6 @@
 # AuE-8200-Machine-Perception-and-Intelligence
  CU-ICAR Spring 2022
- ### Note - Detailed work of each homework is in the Readme of the respective homework folder
+ ### Note - Detail work of each homework is in the Readme of the respective homework folder
 
 ## Homework 1
 
