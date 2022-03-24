@@ -22,3 +22,10 @@ Tools that I used for this Assignment-
 - NuScene develop kit
 - OpenCV
 - Open3D
+
+## Homework 3
+
+Write code rather than using any direct build-in implementation from 3rd party (like Matlab, Python, or others) libraries.
+1. RGB to gray, using a standard RGB-intensity conversion approach like NTSC and implement the convolution (using basic arithmetic operations only, rather than build-in conv()) of Sobel kernel.
+2. Implement a function to perform histogram equalization for image, visualize histogram-equalized image and its histogram distribution.
+3. Apply Hough transformation or other line detection approach to detect multiple lines in the image. Visualize the lines in the image space and in the transformed space.
