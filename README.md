@@ -41,3 +41,15 @@ Write code rather than using any direct build-in implementation from 3rd party (
 5. Based on the raw point cloud data (Questions 1), which is in Cartesian Coordinate, represent and visualize all the point cloud in 3D of horizontal and vertical angels (converted using Polar Coordinate).
 
 
+## Homework 5
+
+### TorchVision Instance Segmentation Finetuning Tutorial
+
+For this tutorial, we will be finetuning a pre-trained Mask R-CNN model in the Penn-Fudan Database for Pedestrian Detection and Segmentation. It contains 170 images with 345 instances of pedestrians, and we will use it to illustrate how to use the new features in torchvision in order to train an instance segmentation model on a custom dataset.
+
+First, need to install pycocotools. This library will be used for computing the evaluation metrics following the COCO metric for intersection over union.
+
+
+
+
+
