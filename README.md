@@ -29,3 +29,15 @@ Write code rather than using any direct build-in implementation from 3rd party (
 1. RGB to gray, using a standard RGB-intensity conversion approach like NTSC and implement the convolution (using basic arithmetic operations only, rather than build-in conv()) of Sobel kernel.
 2. Implement a function to perform histogram equalization for image, visualize histogram-equalized image and its histogram distribution.
 3. Apply Hough transformation or other line detection approach to detect multiple lines in the image. Visualize the lines in the image space and in the transformed space.
+
+## Homework 4
+
+
+
+1. Select a frame (or a few frames) of LiDAR data file, parse the file and visualize the 3D point cloud of that frame.
+2. Perform voxel filter (or box grid filter) to down-sample all the 3D point cloud points to the 3D voxel space points, and visualize the result points.
+3. Apply RANSAC algorithm (or any others you prefer) to the 3D voxel space points to find a ground plane model.
+4. Perform a x-y projection to the off-ground points, and get a 2D matrix (you decide what is the element value), and visualize the 2D matrix as an image.
+5. Based on the raw point cloud data (Questions 1), which is in Cartesian Coordinate, represent and visualize all the point cloud in 3D of horizontal and vertical angels (converted using Polar Coordinate).
+
+
