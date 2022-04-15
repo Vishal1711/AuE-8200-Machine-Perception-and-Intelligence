@@ -30,4 +30,12 @@
 ![image](https://user-images.githubusercontent.com/79803663/163604048-4c43c491-303b-4db6-8dec-66954a84316f.png)
 ![image](https://user-images.githubusercontent.com/79803663/163604074-aa64ef65-9697-47af-aa92-cada6e029186.png)
 
+7. Generate the projected 2D depth image w.r.t horizontal and vertical angels, with intensity value using the distance.
+
+![2D_depth](https://user-images.githubusercontent.com/79803663/163604710-8bc833f0-992b-400a-bbb1-99ff20219cdf.jpg)
+
+![2D_depthim](https://user-images.githubusercontent.com/79803663/163604690-dcb7c213-51fd-4f36-8dd5-c8c2801e23e5.jpg)
+
+
+
 
